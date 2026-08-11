@@ -8,7 +8,7 @@ Summary:	Math::Int128 - Manipulate 128 bits integers in Perl
 Summary(pl.UTF-8):	Math::Int128 - operowanie na 128-bitowych liczbach całkowitych w Perlu
 Name:		perl-Math-Int128
 Version:	0.22
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
